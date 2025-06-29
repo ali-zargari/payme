@@ -13,7 +13,7 @@ Your code is ready! Follow these steps to publish:
 Run these commands in your terminal:
 
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/payme.git
+git remote add origin https://github.com/ali-zargari/payme.git
 git push -u origin main
 ```
 
@@ -27,7 +27,7 @@ git push -u origin main
 ## 4. Access Your App
 After ~2 minutes, your app will be live at:
 ```
-https://YOUR_USERNAME.github.io/payme
+https://ali-zargari.github.io/payme
 ```
 
 ## Note
